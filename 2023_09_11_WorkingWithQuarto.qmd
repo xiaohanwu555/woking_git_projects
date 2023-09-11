@@ -5,7 +5,7 @@ author:
     orcid:
     email: xwu18@huskers.unl.edu
     affiliation:
-      - name:
+      - name: School of Natural Resourses
         address: 311N 44TH
         city: Lincoln
         state: Nebraska
