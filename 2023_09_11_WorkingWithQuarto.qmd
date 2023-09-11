@@ -1,0 +1,25 @@
+---
+title: "Working with quarto and git"
+author: 
+  - name: Xiaohan Wu
+    orcid:
+    email: xwu18@huskers.unl.edu
+    affiliation:
+      - name:
+        address: 311N 44TH
+        city: Lincoln
+        state: Nebraska
+        postal-code: 68503
+date: today
+format: 
+  html:
+    theme: spacelab
+    self-contained: true
+editor: source
+---
+
+## Introduction
+
+We are going to be using a document generating framework (Quarto, built off of RMarkdown) to explore how to use git and give us a background into using Quarto to generate a document.  
+
+Lots of help can be found [here](https://quarto.org/docs/guide/)
